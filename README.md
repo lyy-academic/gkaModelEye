@@ -1,3 +1,13 @@
+
+# Yuanyu Li's dev on gkaModelEye
+
+- this repos holds 2 projects, both based on gkaModelEye
+  - eyeball translation
+  - dpi, dual purkinje image eye tracking
+
+
+
+
 # A model of the optics, biometry, and appearance of the human eye
 
 <p float="left">
